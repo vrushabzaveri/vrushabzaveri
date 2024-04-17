@@ -25,9 +25,6 @@
 <!-- Display top languages -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrushabzaveri&layout=compact&theme=radical" alt="Top Languages" />
 
-<!-- Display visitor count badge -->
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=vrushabzaveri.vrushabzaveri)
-
 <!-- Display GitHub trophies -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=vrushabzaveri)
 
