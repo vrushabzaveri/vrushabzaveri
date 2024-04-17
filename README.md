@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vrushab Zaveri</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React.js, Android Studio**
+- 🌱 I’m currently learning **MERN, Laravel **
 
 - 💬 Ask me about **Android, Linux, Arduino**
 
